@@ -219,6 +219,6 @@ body {
         grid-template-columns: 1fr;
     }
     .gallery-grid img {
-        height: 100px;
+        height: 50px;
     }
 }
